@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sakar Paudel</h1>
 <h3 align="center">A passionate Full Stack Developer, Dreamer & Builder from Nepal 🇳🇵</h3>
-
-<p align="center">|| आत्मानं विद्धि || — "Know Thyself" by Building, Coding, Evolving.</p>
-
 ---
 
-### 👨‍💻 Who Am I?
+### 👨‍💻 About Me
 
 I'm Sakar — a computer science Graduate, Full stack developer, and a relentless builder.  
 From crafting intuitive frontend interfaces to shaping resilient backends,  
@@ -83,22 +80,6 @@ That’s why I code — not just for function, but for **impact**.
   <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
   <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 </p>
-
----
-
-### ✨ My Mindset
-
-> _“Solve real problems. Stay curious. Never stop learning.”_
-
-I believe in building responsibly —  
-Writing clean code, designing for users, and respecting the power of technology.
-
----
-
-### 🧠 Favorite Quote
-
-> “Technology is best when it brings people together.” – Matt Mullenweg
-
 ---
 
 Thanks for visiting! 🌱  

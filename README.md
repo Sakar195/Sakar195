@@ -17,8 +17,8 @@ I'm on a mission to **engineer meaningful software** and contribute to a better 
 
 ### 🔧 What Am I Doing?
 
-- 🔭 Currently exploring **Remix**, 
-- 🌱 Expanding my depth in **Node.js**, **Express**, **SQL**
+- 🔭 Currently exploring **Remix**, **Ai Fellow fusemachines**, 
+- 🌱 Expanding my depth in **Node.js**, **Express**, **Deep Learning**
 - 🧩 Passionate about **Software Engineering**, **Cybersecurity**, and **AI**
 - 🌍 Dreaming to revolutionize **agriculture** and **logistics** through tech
 - 🤝 I believe **open source** and **collaboration** are key to impactful innovation

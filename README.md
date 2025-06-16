@@ -34,8 +34,6 @@ I'm on a mission to **engineer meaningful software** and contribute to a better 
 </p>
 
 📫 Reach me at: **Sakarp195@gmail.com**  
-🔗 Check out my work: [github.com/Sakar195](https://github.com/Sakar195)
-
 ---
 
 ### 💭 My Philosophy

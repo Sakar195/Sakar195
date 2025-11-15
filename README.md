@@ -1,87 +1,129 @@
-<h1 align="center">Hi 👋, I'm Sakar Paudel</h1>
-<h3 align="center">A passionate Full Stack Developer, Dreamer & Builder from Nepal 🇳🇵</h3>
+# 💫 Hi, I'm Sakar Paudel  
+### **Software Developer @ F1PS | Backend-Powered Builder | Nepal 🇳🇵**
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me  
+I'm Sakar, a backend-focused software developer passionate about building **fast, reliable, distributed systems** and clean frontends that feel effortless.
 
-I'm Sakar — a Computer Science graduate, full stack developer, and a relentless builder.  
-From crafting intuitive frontend interfaces to shaping resilient backends,  
-I'm on a mission to **engineer meaningful software** and contribute to a better world.
-
-💡 I'm not just learning to write code — I'm learning to build **systems** that breathe, think, and adapt.
+I enjoy turning ideas into running systems, from crafting APIs to orchestrating real-time message flows.  
+Every line of code I write is aimed at **solving real problems**, not just shipping features.
 
 ---
 
-### 🔧 What Am I Doing?
+## 🚀 What I'm Working On
 
-- 🔭 Currently exploring **Remix**, and working as an **AI Fellow at Fusemachines**
-- 🌱 Expanding my depth in **Node.js**, **Express**, and **Deep Learning**
-- 🧩 Passionate about **Software Engineering**, **Cybersecurity**, and **AI**
-- 🌍 Dreaming to revolutionize **agriculture** and **logistics** through tech
-- 🤝 Firm believer that **open source** and **collaboration** spark impactful innovation
+- 💼 Software Developer at **F1PS**
+- 🔧 Building applications using **Java**, **Javalin**, **NATS JetStream**, and **Vue**
+- 🗄️ Working with **MySQL** for relational data workloads  
+- 🎨 Writing scalable frontend UI using **Vue + SCSS**
+- 🧭 Growing deeper into:
+  - Distributed backend systems  
+  - Real-time messaging  
+  - Clean architecture  
+- 🌱 Still exploring AI, open-source, and system design
 
 ---
 
-### 🔨 Tools & Technologies I Work With
+## 🛠️ Current Tech Stack (Core)
 
-<p align="center">
-
-<a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" alt="HTML5" /></a>
-<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" alt="CSS3" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" alt="TypeScript" /></a>
-<a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" alt="Java" /></a>
-
-<a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" alt="Node.js" /></a>
-   <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" alt="Express" /></a>
-<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" alt="React" /></a>
-<a href="https://nextjs.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" alt="Next.js" /></a>
- 
-<a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" alt="MongoDB" /></a>
-<a href="https://www.oracle.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" alt="Oracle" /></a>
-<a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" alt="PostgreSQL" /></a>
-
-<a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python" /></a>
-<a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" alt="Pandas" /></a>
-<a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" alt="PyTorch" /></a>
-<a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" alt="scikit-learn" /></a>
-<a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" alt="Seaborn" /></a>
- 
-<a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" alt="AWS" /></a>
-<a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" alt="Docker" /></a>
-
-<a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" alt="Postman" /></a>
-<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" alt="Git" /></a>
-<a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" alt="Linux" /></a>
+### **Backend**
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
+  <img src="https://javalin.io/img/logo.svg" width="40" height="40"/>
+  <img src="https://docs.nats.io/~gitbook/image?url=https%3A%2F%2F1487470910-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-legacy-files%2Fo%2Fspaces%252F-LqMYcZML1bsXrN3Ezg0%252Favatar.png%3Fgeneration%3D1571848018902627%26alt%3Dmedia&width=32&dpr=1&quality=100&sign=b857e0c2&sv=2" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
 </p>
 
+- **Java**
+- **Javalin** (Lightweight Java Web Framework)
+- **NATS & JetStream** (Real-time messaging + streaming)
+- **MySQL**
+- **Docker**
+- REST API development  
+- Microservice concepts  
+
 ---
 
-### 🔗 Connect with Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/sakarpaudel" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" />
-  </a>
+### **Frontend**
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40"/>
 </p>
 
-📫 Reach me at: **sakarp195@gmail.com**
+- **Vue.js**
+- **SCSS**
+- Component-based architecture  
+- Clean, minimal UI  
+
+---
+## 🌐 Other Tools & Skills
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="40"/>
+</p>
+
+- Git & GitHub  
+- Linux  
+- Postman  
+- CI/CD fundamentals  
+- Debugging, scripting, API testing  
 
 ---
 
-### 💭 My Philosophy
+## 📚 Other Technologies I Have Worked With
 
-🧘‍♂️ *I build with purpose.*  
-Each feature I code, each bug I debug — they’re not just tasks.  
-They're steps toward solving **real-world problems**.
+These are tools and frameworks I have used in previous projects:
 
-🔍 I often wonder —  
-> *"What if your app could **change** someone's day? Or even their future?"*
+### **Frontend Experience**
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40"/>
+</p>
 
-That’s why I code — not just for function, but for **impact**.
+- **React**
+- **Next.js**
+- Tailwind CSS  
+
+### **Backend**
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40"/>
+  <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40" alt=".NET" /></a>
+</p>
+
+- **Node.js**  
+- **Express.js**  
+- **.Net**,  
+- MongoDB  
+- PostgreSQL  
 
 ---
 
-Thanks for visiting! 🌱  
-Let’s create something meaningful, together.
+
+
+## 🌍 My Goals  
+
+- Build resilient backend systems (low-latency, distributed, real-time)  
+- Contribute to open-source tooling around Java & NATS  
+- Explore how tech can transform **agriculture** and **logistics**  
+- Grow into a system designer & impactful engineer  
+
+---
+
+## 🔗 Connect With Me
+
+<a href="https://linkedin.com/in/sakarpaudel">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="35"/>
+</a>
+
+📫 Email: **sakarp195@gmail.com**
+
+---
+
+
+## 🌱 Thanks for visiting!  
+Let’s build something meaningful together.

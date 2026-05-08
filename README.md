@@ -48,11 +48,9 @@ Every line of code I write is aimed at **solving real problems**, not just shipp
 ### **Frontend**
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40"/>
 </p>
 
 - **Vue.js**
-- **SCSS**
 - Component-based architecture  
 - Clean, minimal UI  
 
@@ -77,16 +75,6 @@ Every line of code I write is aimed at **solving real problems**, not just shipp
 
 These are tools and frameworks I have used in previous projects:
 
-### **Frontend Experience**
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40"/>
-</p>
-
-- **React**
-- **Next.js**
-- Tailwind CSS  
-
 ### **Backend**
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
@@ -108,8 +96,6 @@ These are tools and frameworks I have used in previous projects:
 ## 🌍 My Goals  
 
 - Build resilient backend systems (low-latency, distributed, real-time)  
-- Contribute to open-source tooling around Java & NATS  
-- Explore how tech can transform **agriculture** and **logistics**  
 - Grow into a system designer & impactful engineer  
 
 ---
